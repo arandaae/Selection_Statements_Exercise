@@ -10,7 +10,7 @@ namespace Selection_Statements_Exercise
             Console.WriteLine();
 
             int favNumber = 7;
-        
+
             int userInput = int.Parse(Console.ReadLine());
 
             if (userInput < favNumber)
@@ -35,7 +35,7 @@ namespace Selection_Statements_Exercise
                 Console.WriteLine("Math, History, English, Biology, Chemistry");
                 string subject = Console.ReadLine();
 
-                switch (subject)
+                switch (subject.ToLower())
                 {
                     case "Math":
                         Console.WriteLine("Math is your favorite subject!");
