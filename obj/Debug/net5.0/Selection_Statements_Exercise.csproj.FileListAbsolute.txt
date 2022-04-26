@@ -1,0 +1,16 @@
+F:\Repos\Selection_Statements_Exercise\obj\Debug\net5.0\Selection_Statements_Exercise.csproj.AssemblyReference.cache
+F:\Repos\Selection_Statements_Exercise\obj\Debug\net5.0\Selection_Statements_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repos\Selection_Statements_Exercise\obj\Debug\net5.0\Selection_Statements_Exercise.AssemblyInfoInputs.cache
+F:\Repos\Selection_Statements_Exercise\obj\Debug\net5.0\Selection_Statements_Exercise.AssemblyInfo.cs
+F:\Repos\Selection_Statements_Exercise\obj\Debug\net5.0\Selection_Statements_Exercise.csproj.CoreCompileInputs.cache
+F:\Repos\Selection_Statements_Exercise\bin\Debug\net5.0\Selection_Statements_Exercise.exe
+F:\Repos\Selection_Statements_Exercise\bin\Debug\net5.0\Selection_Statements_Exercise.deps.json
+F:\Repos\Selection_Statements_Exercise\bin\Debug\net5.0\Selection_Statements_Exercise.runtimeconfig.json
+F:\Repos\Selection_Statements_Exercise\bin\Debug\net5.0\Selection_Statements_Exercise.runtimeconfig.dev.json
+F:\Repos\Selection_Statements_Exercise\bin\Debug\net5.0\Selection_Statements_Exercise.dll
+F:\Repos\Selection_Statements_Exercise\bin\Debug\net5.0\Selection_Statements_Exercise.pdb
+F:\Repos\Selection_Statements_Exercise\obj\Debug\net5.0\Selection_Statements_Exercise.dll
+F:\Repos\Selection_Statements_Exercise\obj\Debug\net5.0\refint\Selection_Statements_Exercise.dll
+F:\Repos\Selection_Statements_Exercise\obj\Debug\net5.0\Selection_Statements_Exercise.pdb
+F:\Repos\Selection_Statements_Exercise\obj\Debug\net5.0\Selection_Statements_Exercise.genruntimeconfig.cache
+F:\Repos\Selection_Statements_Exercise\obj\Debug\net5.0\ref\Selection_Statements_Exercise.dll
