@@ -23,7 +23,7 @@ namespace Selection_Statements_Exercise
             }
             else
             {
-                Console.WriteLine("Nevermind");
+                Console.WriteLine("You are correct!");
             }
 
             Console.Clear();
